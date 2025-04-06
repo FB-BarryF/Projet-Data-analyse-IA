@@ -5,4 +5,4 @@ Voici 2 projets en data analyse concernant des factures impayées et la recherch
 - ---
 ## Objectifs du rapport Looker Studio
 - Préparation des données avec SQL
-- Visualisation modernes avec Looker Studio
+- Visualisation moderne avec Looker Studio
